@@ -26,6 +26,9 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import MedTrix from './medTrix.svg'
+import Bag from './Bag.svg'
+import paas from './paas.png'
 
 export {
     css,
@@ -55,5 +58,8 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    MedTrix,
+    Bag,
+    paas
 }

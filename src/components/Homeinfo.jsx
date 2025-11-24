@@ -7,10 +7,10 @@ const Homeinfo = ({ currentStage }) => {
     return (
       <h1 className='sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5'>
         Hi, I'm
-        <span className='font-semibold mx-2 text-white'>Adrian</span>
+        <span className='font-semibold mx-2 text-white'>Jayashree.</span>
         👋
         <br />
-        A Software Engineer from Croatia 🇭🇷
+          A React Frontend Developer building clean and fast web experiences.
       </h1>
     );
 
@@ -18,7 +18,7 @@ const Homeinfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          Worked with many companies <br /> and picked up many skills along the way
+            Worked on multiple projects <br /> and strengthened my skills along the way.
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
@@ -33,7 +33,8 @@ const Homeinfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium text-center sm:text-xl'>
-          Led multiple projects to success over the years. <br /> Curious about the impact?
+            Delivered multiple projects with real impact. <br /> Want to see what I've built?
+
         </p>
 
         <Link to='/projects' className='neo-brutalism-white neo-btn'>

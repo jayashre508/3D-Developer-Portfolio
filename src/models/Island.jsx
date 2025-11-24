@@ -245,3 +245,4 @@ export default function Island({
     </a.group>
   );
 }
+useGLTF.preload(islandScene);
